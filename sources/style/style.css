@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 body {
     display: flex;
     justify-content: center;
@@ -17,7 +18,8 @@ body {
     padding: 10px 20px;
     padding-right: 0px;
     padding-left: 50px;
-    font-size: 2.2rem;
+    font-size: 1.6rem;
+    font-family: "Montserrat", serif;
     color: white;
     background-color: grey;
     border: none;
